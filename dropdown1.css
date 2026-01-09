@@ -668,4 +668,16 @@ ul.menu li ul {
   margin: 0 auto;    /* centers the logo */
 }
 
+/* Active menu link */
+.menu li a.active {
+    color: #3C6AE7 !important;      /* text turns white */
+    border-bottom: 2px solid #3C6AE7;  /* underline */
+    padding-bottom: 4px;          /* small spacing for underline */
+}
+
+/* Optional: keep hover effect */
+.menu li a.active:hover {
+    color: #3C6AE7 !important;
+}
+
 
