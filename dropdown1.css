@@ -54,7 +54,7 @@ body.scrolled .primary-navigation {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #CBDCEB;
+  background: #d2e6fa;
   padding: 10px;
   width: 100%;
 }
@@ -118,7 +118,7 @@ body.scrolled .primary-navigation {
   position: absolute;
   top: 100%;
   left: 0;
-  background: #CBDCEB;
+  background: #d2e6fa;
   padding: 12px 20px;
   border-radius: 20px;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
@@ -197,7 +197,7 @@ body.scrolled .primary-navigation {
   width: 100%;
   flex-direction: column;
   align-items: flex-start;
-  background: #CBDCEB;
+  background: #d2e6fa;
   border-radius: 0;
   margin: 0;
   padding: 15px 20px; 
@@ -220,7 +220,7 @@ ul.menu li ul {
 
   .menu {
     display: none;
-    background: #CBDCEB;
+    background: #d2e6fa;
     flex-direction: column;
     width: 100%;
     /*background: #f9f9f9;*/
@@ -242,7 +242,7 @@ ul.menu li ul {
   .menu li ul {
     position: static;
     display: none;
-    background: #CBDCEB !important;
+    background: #d2e6fa !important;
     padding: 0;
     box-shadow: none;
     width: 100%;
